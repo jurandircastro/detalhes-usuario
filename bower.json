@@ -1,0 +1,19 @@
+{
+  "name": "teste",
+  "version": "0.0.1",
+  "authors": [
+    "Jurandir Castro Jr"
+  ],
+  "description": "teste",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.3.0",
+    "angular-route": "~1.5.0",
+    "jquery": "^3.1.1",
+    "angular-ui-router": "^0.3.2",
+    "bootstrap": "^3.3.7"
+  },
+  "resolutions": {
+    "angular": "^1.0.8"
+  }
+}
