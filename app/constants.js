@@ -3,7 +3,7 @@ angular.module('Teste')
 
 function httpRequest(url, method, data, $q, $http) {
   const deferred = $q.defer();
-  const baseUrl = 'http://localhost:3000';
+  const baseUrl = '';
 
    $http({
     method: method,
